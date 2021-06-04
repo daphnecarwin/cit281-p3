@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Project 3
+Purpose of the project:
+Gain experience interpreting functional descriptions and specifications to complete an assignment
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-p3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gain experience breaking a project into manageable components
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-### Markdown
+Practice creating and using code modules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Practice refactoring using modern JavaScript syntax
 
-```markdown
-Syntax highlighted code block
+Gain experience writing and executing web server Node.js JavaScript code using VSCode
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience using Fastify with the GET verb, routes, and query parameters
 
-- Bulleted
-- List
+Gain experience loading a file and using as a web page
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Technologies used for the project:
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Node.js, Javascript, Vscode, terminal/command line interface 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-p3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+What I learned from the project:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+From project 3 I practiced refactoring and was able to put into use the GET verb, routes, query parameters, etc that I struggled with conceptually in class. 
